@@ -1,0 +1,6 @@
+# Exclude local system files and scratch databases.
+.DS_Store
+Thumbs.db
+*.sqlite
+*.sqlite-*
+*.zip
